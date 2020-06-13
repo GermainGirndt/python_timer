@@ -1,5 +1,5 @@
 # Python Timer
-A timer for measuring and comparing different functions' execution time.
+A timer for measuring and comparing different functions' execution time. (working on 13th Jun 2020)
 
 ## Preview
 
